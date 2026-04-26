@@ -6,6 +6,8 @@ This REST API provides a standardized interface for interacting with UltimateMem
 
 The API follows WordPress REST API conventions and is designed for custom integrations, external applications, and headless WordPress setups.
 
+> Notice: This project was developed with the assistance of AI tools.
+
 ### Base URL
 ```
 https://your-wordpress-site.com/wp-json/um/v1
